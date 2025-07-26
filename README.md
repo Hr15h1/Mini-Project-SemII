@@ -1,6 +1,6 @@
 # Binary Classification using artificial neural network
 
-We are training a neural network on the PIMA indian diabetes dataset to classify between patients with and without diabetes.
+We are training a neural network on the PIMA Indian diabetes dataset to classify between patients with and without diabetes.
 
 
 
